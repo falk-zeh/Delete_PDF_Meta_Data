@@ -12,4 +12,4 @@ If you don't have Homebrew installed I'd suggest running the ```install_dependen
 ```./delete_pdf_meta.sh /Users/user/Desktop/file.pdf``` will delete all meta data from ```file.pdf```
 
 
-- FZ
+FZ
